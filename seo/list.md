@@ -1,0 +1,4 @@
+- https://moz.com/blog/long-tail-seo-target-low-volume-keywords-whiteboard-friday
+- https://moz.com/blog/google-keyword-planner-dirty-secrets
+- https://moz.com/blog/one-hour-seo-guide-part-2-keyword-research
+- https://moz.com/keyword-research-guide
