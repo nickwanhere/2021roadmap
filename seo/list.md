@@ -2,3 +2,8 @@
 - https://moz.com/blog/google-keyword-planner-dirty-secrets
 - https://moz.com/blog/one-hour-seo-guide-part-2-keyword-research
 - https://moz.com/keyword-research-guide
+- https://moz.com/learn/seo/international-seo
+- https://moz.com/blog/refurbishing-top-content-whiteboard-friday
+- https://imagecompressor.com/
+- https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization
+- https://developers.google.com/search/docs/advanced/sitemaps/image-sitemaps?visit_id=637533644794339425-3110004789&rd=1
