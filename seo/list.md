@@ -7,3 +7,7 @@
 - https://imagecompressor.com/
 - https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization
 - https://developers.google.com/search/docs/advanced/sitemaps/image-sitemaps?visit_id=637533644794339425-3110004789&rd=1
+- https://getstat.com/
+- https://www.tableau.com/
+- https://powerbi.microsoft.com/en-us/
+-

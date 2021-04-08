@@ -124,3 +124,9 @@
 - URLs are those that can easily be read by humans
 - use the hyphen character (-) to separate words in a URL
 - on HTTPS to migrate to HTTP/2.
+- using structured data can help enable a rich snippet to be present, but does not guarantee it.
+
+## Audit
+
+- Crawlability
+- Indexed pages
